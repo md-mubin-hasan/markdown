@@ -52,4 +52,4 @@ markdown or any text
 
 > Some LaTeX code
 
-x^3 + 2x^2 + 3x = 0
+$x^3 + 2x^2 + 3x = 0$
