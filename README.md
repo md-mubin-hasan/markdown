@@ -49,3 +49,7 @@ To add a comment in Markdown code, I will have to use the syntax below. This wil
 markdown or any text
 -->
 ```
+
+> Some LaTeX code
+
+x^3 + 2x^2 + 3x = 0
