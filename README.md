@@ -41,3 +41,11 @@ A resource to learn the syntax of [Markdown](https://learnxinyminutes.com/docs/m
 An interesting way writing a highlighted portion of paragraph is to start the paragraph with `> ` 
 
 > This is an interesting paragraph
+
+To add a comment in Markdown code, I will have to use the syntax below. This will not be rendered.
+
+```
+<!--
+markdown or any text
+-->
+```
