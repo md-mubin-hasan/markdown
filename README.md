@@ -54,6 +54,10 @@ markdown or any text
 
 $x^3 + 2x^2 + 3x = 0$
 
+```
+$x^3 + 2x^2 + 3x = 0$
+```
+
 > Table
 
 |   title1  |   title2  |   title3  |
