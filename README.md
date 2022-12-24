@@ -53,3 +53,21 @@ markdown or any text
 > Some LaTeX code
 
 $x^3 + 2x^2 + 3x = 0$
+
+> Table
+
+|   title1  |   title2  |   title3  |
+|-----------|-----------|-----------|
+|   text1   |   text2   |   text3   |
+|   text4   |   text5   |   text6   |
+|   text7   |   text8   |   text9   |
+
+```
+
+|   title1  |   title2  |   title3  |
+|-----------|-----------|-----------|
+|   text1   |   text2   |   text3   |
+|   text4   |   text5   |   text6   |
+|   text7   |   text8   |   text9   |
+
+```
