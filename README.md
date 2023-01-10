@@ -36,8 +36,10 @@ Numbered list:
 I can make some text bold using `**`, e.g., **some bold text**, or make it italic using `*`, e.g., *some italic text.* I can also create links, e.g., [a link](https://jovian.ai). Images can be embedded too easily:
 ![](https://i.imgur.com/3gjZMYK.png)
 
-A resource to learn the syntax of [Markdown](https://learnxinyminutes.com/docs/markdown/): https://learnxinyminutes.com/docs/markdown/
-
+A resource to learn the syntax of [Markdown](https://learnxinyminutes.com/docs/markdown/): 
+```
+[Markdown](https://learnxinyminutes.com/docs/markdown/)
+```
 An interesting way writing a highlighted portion of paragraph is to start the paragraph with `> ` 
 
 > This is an interesting paragraph
