@@ -56,6 +56,7 @@ markdown or any text
 
 $x^3 + 2x^2 + 3x = 0$
 
+$$ \int_{a}^{b} x^2 dx $$
 ```
 $x^3 + 2x^2 + 3x = 0$
 ```
